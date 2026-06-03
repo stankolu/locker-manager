@@ -93,4 +93,4 @@ locker-manager/
 
 ## License
 
-Internal use only — Lycée Ermesinde.
+GNU General Public License
