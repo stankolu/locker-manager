@@ -1,0 +1,13 @@
+{
+    "name": "lycee-ermesinde/locker-manager",
+    "description": "Locker Management System for Lycée Ermesinde",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "tecnickcom/tcpdf": "^6.6",
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "autoload": {
+        "classmap": ["includes/"]
+    }
+}

@@ -1,0 +1,23 @@
+# Dependencies
+/vendor/
+composer.phar
+composer.lock
+
+# Uploads
+/uploads/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment overrides
+.env
