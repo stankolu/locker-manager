@@ -1,4 +1,4 @@
-# Locker Manager — Lycée Ermesinde
+# Locker Manager
 
 A web-based locker management system for managing student locker assignments, locks, rooms, and houses at Lycée Ermesinde.
 
