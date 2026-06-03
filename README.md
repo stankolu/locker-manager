@@ -1,6 +1,6 @@
 # Locker Manager
 
-A web-based locker management system for managing student locker assignments, locks, rooms, and houses at Lycée Ermesinde.
+A web-based locker management system for managing student locker assignments, locks, rooms, and houses.
 
 ## Features
 
